@@ -1,0 +1,22 @@
+# Virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs / temp
+*.log
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts (optional but recommended)
+*.h5
+*.keras
+*.tflite
+saved_model/
+SavedModel/

@@ -1,0 +1,4 @@
+model,epochs_ran,best_val_acc,best_val_loss,train_time_sec
+transfer_frozen,8,0.900545,0.293091,156.87
+transfer_finetune,6,0.920981,0.238884,180.9
+scratch_cnn,8,0.628065,0.991418,244.63
