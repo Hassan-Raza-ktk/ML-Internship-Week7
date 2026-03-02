@@ -102,7 +102,8 @@ Used pre-trained MobileNetV2 with:
 
 ## 📊 Accuracy Comparison Chart
 
-![Model Comparison](Task_7.4_Transfer_Learning/visuals/model_comparison.png)
+!(Task_7.4_Transfer_Learning/visuals/acc_scratch_cnn.png)
+!(Task_7.4_Transfer_Learning/visuals/loss_scratch_cnn.png)
 
 ---
 
