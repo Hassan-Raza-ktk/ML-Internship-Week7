@@ -36,7 +36,7 @@ Implemented a full neural network pipeline manually:
 
 ### 📈 Decision Boundary
 
-![Decision Boundary](Task_7.1_Multi_Layer_Perceptron/visuals/decision_boundary.png)
+![Decision Boundary](Task_7.1_Multi-Layer Perceptron/visuals/decision_boundary.png)
 
 ---
 
