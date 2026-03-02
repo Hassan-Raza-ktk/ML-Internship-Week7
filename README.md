@@ -102,8 +102,9 @@ Used pre-trained MobileNetV2 with:
 
 ## 📊 Accuracy Comparison Chart
 
-!(Task_7.4_Transfer_Learning/visuals/acc_scratch_cnn.png)
-!(Task_7.4_Transfer_Learning/visuals/loss_scratch_cnn.png)
+![Scratch CNN Accuracy](Task_7.4_Transfer_Learning/visuals/acc_scratch_cnn.png)
+
+![Scratch CNN Loss](Task_7.4_Transfer_Learning/visuals/loss_scratch_cnn.png)
 
 ---
 
