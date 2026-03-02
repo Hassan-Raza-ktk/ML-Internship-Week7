@@ -32,7 +32,7 @@ Implemented a full neural network pipeline manually:
 
 ### 📊 Training Loss Curve
 
-![Loss Curve](Task_7.1_Multi_Layer_Perceptron/visuals/loss_curve.png)
+![Loss Curve](Task_7.1_Multi-Layer%20Perceptron/visuals/loss_curve.png)
 
 ### 📈 Decision Boundary
 
@@ -69,11 +69,11 @@ Built CNN from scratch:
 
 ### 📊 Training Accuracy vs Validation Accuracy
 
-![Accuracy Curve](Task7.3_CNN_Image_Classification/visuals/accuracy_curve.png)
+![loss Curve](Task7.3_CNN_Image_Classification/visuals/fashion_mnist_loss.png) 
 
 ### 📉 Training Loss vs Validation Loss
 
-![Loss Curve](Task7.3_CNN_Image_Classification/visuals/loss_curve.png)
+![Accuracy Curve](Task7.3_CNN_Image_Classification/visuals/fashion_mnist_accuracy.png) 
 
 ---
 
